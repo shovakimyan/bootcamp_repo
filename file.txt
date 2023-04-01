@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello world from Armenia
+=======
+hello world georgia
+>>>>>>> fff2b99 (add greating location:Georgia)
 new demo sentence
