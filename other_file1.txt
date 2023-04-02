@@ -1,2 +1,3 @@
-some text 2 -- change
-for git diff
+some text 2 -- change/abc
+for git diff 
+make changes
